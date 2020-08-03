@@ -1,0 +1,19 @@
+@font-face {
+    font-family: MontserratThin;
+    src: url("../fonts/Montserrat-Thin.ttf");
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    margin: 0 auto;
+    width: 1366px;
+}
+
+.padding-site{
+    padding: 0 98px;
+}
+
